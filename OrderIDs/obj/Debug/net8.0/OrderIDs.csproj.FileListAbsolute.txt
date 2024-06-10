@@ -1,0 +1,15 @@
+C:\Users\Aditya Uni\C#\OrderIDs\obj\Debug\net8.0\OrderIDs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aditya Uni\C#\OrderIDs\obj\Debug\net8.0\OrderIDs.AssemblyInfoInputs.cache
+C:\Users\Aditya Uni\C#\OrderIDs\obj\Debug\net8.0\OrderIDs.AssemblyInfo.cs
+C:\Users\Aditya Uni\C#\OrderIDs\obj\Debug\net8.0\OrderIDs.csproj.CoreCompileInputs.cache
+C:\Users\Aditya Uni\C#\OrderIDs\obj\Debug\net8.0\OrderIDs.sourcelink.json
+C:\Users\Aditya Uni\C#\OrderIDs\bin\Debug\net8.0\OrderIDs.exe
+C:\Users\Aditya Uni\C#\OrderIDs\bin\Debug\net8.0\OrderIDs.deps.json
+C:\Users\Aditya Uni\C#\OrderIDs\bin\Debug\net8.0\OrderIDs.runtimeconfig.json
+C:\Users\Aditya Uni\C#\OrderIDs\bin\Debug\net8.0\OrderIDs.dll
+C:\Users\Aditya Uni\C#\OrderIDs\bin\Debug\net8.0\OrderIDs.pdb
+C:\Users\Aditya Uni\C#\OrderIDs\obj\Debug\net8.0\OrderIDs.dll
+C:\Users\Aditya Uni\C#\OrderIDs\obj\Debug\net8.0\refint\OrderIDs.dll
+C:\Users\Aditya Uni\C#\OrderIDs\obj\Debug\net8.0\OrderIDs.pdb
+C:\Users\Aditya Uni\C#\OrderIDs\obj\Debug\net8.0\OrderIDs.genruntimeconfig.cache
+C:\Users\Aditya Uni\C#\OrderIDs\obj\Debug\net8.0\ref\OrderIDs.dll
