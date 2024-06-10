@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aditya Uni\\C#\\DiceRoll\\SubscriptionRenewal\\SubscriptionRenewal.csproj",
+      "projectUniqueName": "C:\\Users\\Aditya Uni\\C#\\SubscriptionRenewal\\SubscriptionRenewal.csproj",
       "projectName": "SubscriptionRenewal",
-      "projectPath": "C:\\Users\\Aditya Uni\\C#\\DiceRoll\\SubscriptionRenewal\\SubscriptionRenewal.csproj",
+      "projectPath": "C:\\Users\\Aditya Uni\\C#\\SubscriptionRenewal\\SubscriptionRenewal.csproj",
       "packagesPath": "C:\\Users\\Aditya Uni\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aditya Uni\\C#\\DiceRoll\\SubscriptionRenewal\\obj\\",
+      "outputPath": "C:\\Users\\Aditya Uni\\C#\\SubscriptionRenewal\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Aditya Uni\\AppData\\Roaming\\NuGet\\NuGet.Config"
