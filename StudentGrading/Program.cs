@@ -1,6 +1,6 @@
 ﻿using System;
 
-// initialize variables - graded assignments 
+// Initialize variables - graded assignments 
 int currentAssignments = 5;
 
 int[] sophiaGrades = { 90, 86, 87, 98, 100 };
@@ -18,7 +18,7 @@ decimal andrewScore;
 decimal emmaScore;
 decimal loganScore;
 
-string grade = { "A+", "A", "A-", "B+", "B", "B-", "C+", "C", "C-", "D+", "D", "D-", "F" };
+string[] grade = { "A+", "A", "A-", "B+", "B", "B-", "C+", "C", "C-", "D+", "D", "D-", "F" };
 
 foreach (int score in sophiaGrades)
 {
@@ -46,68 +46,68 @@ emmaScore = (decimal)emmaSum / currentAssignments;
 loganScore = (decimal)loganSum / currentAssignments;
 
 decimal[] scores = { sophiaScore, andrewScore, emmaScore, loganScore };
+string[] studentNames = { "Sophia", "Andrew", "Emma", "Logan" };
+string[] finalGrades = new string[4];
 
-foreach (score in scores)
+for (int i = 0; i < scores.Length; i++)
 {
-    if (score >= 97 || score <= 100)
+    decimal score = scores[i];
+    if (score >= 97 && score <= 100)
     {
-        Console.WriteLine(grade[0]);
+        finalGrades[i] = grade[0];
     }
-    else if (score >= 93 || score <= 96)
+    else if (score >= 93 && score <= 96)
     {
-        Console.WriteLine(grade[1]);
+        finalGrades[i] = grade[1];
     }
-    else if (score >= 90 || score <= 92)
+    else if (score >= 90 && score <= 92)
     {
-        Console.WriteLine(grade[2]);
+        finalGrades[i] = grade[2];
     }
-    else if (score >= 87 || score <= 89)
+    else if (score >= 87 && score <= 89)
     {
-        Console.WriteLine(grade[3]);
+        finalGrades[i] = grade[3];
     }
-    else if (score >= 83 || score <= 86)
+    else if (score >= 83 && score <= 86)
     {
-        Console.WriteLine(grade[4]);
+        finalGrades[i] = grade[4];
     }
-    else if (score >= 80 || score <= 82)
+    else if (score >= 80 && score <= 82)
     {
-        Console.WriteLine(grade[5]);
+        finalGrades[i] = grade[5];
     }
-    else if (score >= 77 || score <= 79)
+    else if (score >= 77 && score <= 79)
     {
-        Console.WriteLine(grade[6]);
+        finalGrades[i] = grade[6];
     }
-    else if (score >= 73 || score <= 76)
+    else if (score >= 73 && score <= 76)
     {
-        Console.WriteLine(grade[7]);
+        finalGrades[i] = grade[7];
     }
-    else if (score >= 70 || score <= 72)
+    else if (score >= 70 && score <= 72)
     {
-        Console.WriteLine(grade[8]);
+        finalGrades[i] = grade[8];
     }
-    else if (score >= 67 || score <= 69)
+    else if (score >= 67 && score <= 69)
     {
-        Console.WriteLine(grade[9]);
+        finalGrades[i] = grade[9];
     }
-    else if (score >= 63 || score <= 66)
+    else if (score >= 63 && score <= 66)
     {
-        Console.WriteLine(grade[10]);
+        finalGrades[i] = grade[10];
     }
-    else if (score >= 60 || score <= 62)
+    else if (score >= 60 && score <= 62)
     {
-        Console.WriteLine(grade[11]);
+        finalGrades[i] = grade[11];
     }
     else
     {
-        Console.WriteLine(grade[12]);
+        finalGrades[i] = grade[12];
     }
 }
 
 Console.WriteLine("Student\t\tGrade\n");
-Console.WriteLine("Sophia:\t\t" + sophiaScore + $"\t{score}");
-Console.WriteLine("Andrew:\t\t" + andrewScore + "\tB+");
-Console.WriteLine("Emma:\t\t" + emmaScore + "\tB");
-Console.WriteLine("Logan:\t\t" + loganScore + "\tA-");
-
-Console.WriteLine("Press the Enter key to continue");
-Console.ReadLine();
+for (int i = 0; i < studentNames.Length; i++)
+{
+    Console.WriteLine($"{studentNames[i]}:\t\t{scores[i]:F2}\t{finalGrades[i]}");
+}
