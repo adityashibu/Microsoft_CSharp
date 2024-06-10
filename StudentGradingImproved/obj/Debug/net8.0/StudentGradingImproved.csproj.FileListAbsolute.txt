@@ -1,0 +1,15 @@
+C:\Users\Aditya Uni\C#\StudentGradingImproved\bin\Debug\net8.0\StudentGradingImproved.exe
+C:\Users\Aditya Uni\C#\StudentGradingImproved\bin\Debug\net8.0\StudentGradingImproved.deps.json
+C:\Users\Aditya Uni\C#\StudentGradingImproved\bin\Debug\net8.0\StudentGradingImproved.runtimeconfig.json
+C:\Users\Aditya Uni\C#\StudentGradingImproved\bin\Debug\net8.0\StudentGradingImproved.dll
+C:\Users\Aditya Uni\C#\StudentGradingImproved\bin\Debug\net8.0\StudentGradingImproved.pdb
+C:\Users\Aditya Uni\C#\StudentGradingImproved\obj\Debug\net8.0\StudentGradingImproved.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aditya Uni\C#\StudentGradingImproved\obj\Debug\net8.0\StudentGradingImproved.AssemblyInfoInputs.cache
+C:\Users\Aditya Uni\C#\StudentGradingImproved\obj\Debug\net8.0\StudentGradingImproved.AssemblyInfo.cs
+C:\Users\Aditya Uni\C#\StudentGradingImproved\obj\Debug\net8.0\StudentGradingImproved.csproj.CoreCompileInputs.cache
+C:\Users\Aditya Uni\C#\StudentGradingImproved\obj\Debug\net8.0\StudentGradingImproved.sourcelink.json
+C:\Users\Aditya Uni\C#\StudentGradingImproved\obj\Debug\net8.0\StudentGradingImproved.dll
+C:\Users\Aditya Uni\C#\StudentGradingImproved\obj\Debug\net8.0\refint\StudentGradingImproved.dll
+C:\Users\Aditya Uni\C#\StudentGradingImproved\obj\Debug\net8.0\StudentGradingImproved.pdb
+C:\Users\Aditya Uni\C#\StudentGradingImproved\obj\Debug\net8.0\StudentGradingImproved.genruntimeconfig.cache
+C:\Users\Aditya Uni\C#\StudentGradingImproved\obj\Debug\net8.0\ref\StudentGradingImproved.dll
