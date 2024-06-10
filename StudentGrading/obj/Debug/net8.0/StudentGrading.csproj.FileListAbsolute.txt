@@ -1,0 +1,5 @@
+C:\Users\Aditya Uni\C#\StudentGrading\obj\Debug\net8.0\StudentGrading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aditya Uni\C#\StudentGrading\obj\Debug\net8.0\StudentGrading.AssemblyInfoInputs.cache
+C:\Users\Aditya Uni\C#\StudentGrading\obj\Debug\net8.0\StudentGrading.AssemblyInfo.cs
+C:\Users\Aditya Uni\C#\StudentGrading\obj\Debug\net8.0\StudentGrading.csproj.CoreCompileInputs.cache
+C:\Users\Aditya Uni\C#\StudentGrading\obj\Debug\net8.0\StudentGrading.sourcelink.json
