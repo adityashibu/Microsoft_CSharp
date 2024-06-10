@@ -22,11 +22,19 @@ if ((roll1 == roll2) && (roll2 == roll3))
     Console.WriteLine($"New total: {total}");
 }
 
-if (total > 14)
+if (total >= 16)
 {
-    Console.WriteLine("You win!");
+    Console.WriteLine("You win a new car!");
+}
+else if (total >= 10)
+{
+    Console.WriteLine("You win a new laptop!");
+}
+else if (total == 7)
+{
+    Console.WriteLine("You win a new cat!");
 }
 else
 {
-    Console.WriteLine("Sorry, you lose.");
+    Console.WriteLine("You win a new kitten!");
 }
