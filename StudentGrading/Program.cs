@@ -5,9 +5,13 @@ int[] sophiaScores = new int[] { 90, 86, 87, 98, 100 };
 int[] andrewScores = new int[] { 92, 89, 81, 96, 90 };
 int[] emmaScores = new int[] { 90, 85, 87, 98, 68 };
 int[] loganScores = new int[] { 90, 95, 87, 88, 96 };
+int[] beckyScores = new int[] { 92, 91, 90, 91, 92, 92, 92 };
+int[] chrisScores = new int[] { 84, 86, 88, 90, 92, 94, 96, 98 };
+int[] ericScores = new int[] { 80, 90, 100, 80, 90, 100, 80, 90 };
+int[] gregorScores = new int[] { 91, 91, 91, 91, 91, 91, 91 };
 
 // Student names
-string[] studentNames = new string[] { "Sophia", "Andrew", "Emma", "Logan" };
+string[] studentNames = new string[] { "Sophia", "Andrew", "Emma", "Logan", "Becky", "Chris", "Eric", "Gregor" };
 
 int[] studentScores = new int[10];
 
@@ -35,6 +39,16 @@ foreach (string name in studentNames)
     else if (currentStudent == "Logan")
         // assign Logan's scores to the studentScores array 
         studentScores = loganScores;
+    else if (currentStudent == "Becky")
+        studentScores = beckyScores;
+    else if (currentStudent == "Chris")
+        studentScores = chrisScores;
+    else if (currentStudent == "Eric")
+        studentScores = ericScores;
+    else if (currentStudent == "Gregor")
+        studentScores = gregorScores;
+    else
+        continue;
 
     // initialize/reset the sum of scored assignments
     int sumAssignmentScores = 0;
