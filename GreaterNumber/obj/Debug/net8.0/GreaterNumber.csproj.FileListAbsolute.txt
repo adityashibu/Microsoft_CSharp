@@ -1,0 +1,15 @@
+C:\Users\Aditya Uni\C#\GreaterNumber\bin\Debug\net8.0\GreaterNumber.exe
+C:\Users\Aditya Uni\C#\GreaterNumber\bin\Debug\net8.0\GreaterNumber.deps.json
+C:\Users\Aditya Uni\C#\GreaterNumber\bin\Debug\net8.0\GreaterNumber.runtimeconfig.json
+C:\Users\Aditya Uni\C#\GreaterNumber\bin\Debug\net8.0\GreaterNumber.dll
+C:\Users\Aditya Uni\C#\GreaterNumber\bin\Debug\net8.0\GreaterNumber.pdb
+C:\Users\Aditya Uni\C#\GreaterNumber\obj\Debug\net8.0\GreaterNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aditya Uni\C#\GreaterNumber\obj\Debug\net8.0\GreaterNumber.AssemblyInfoInputs.cache
+C:\Users\Aditya Uni\C#\GreaterNumber\obj\Debug\net8.0\GreaterNumber.AssemblyInfo.cs
+C:\Users\Aditya Uni\C#\GreaterNumber\obj\Debug\net8.0\GreaterNumber.csproj.CoreCompileInputs.cache
+C:\Users\Aditya Uni\C#\GreaterNumber\obj\Debug\net8.0\GreaterNumber.sourcelink.json
+C:\Users\Aditya Uni\C#\GreaterNumber\obj\Debug\net8.0\GreaterNumber.dll
+C:\Users\Aditya Uni\C#\GreaterNumber\obj\Debug\net8.0\refint\GreaterNumber.dll
+C:\Users\Aditya Uni\C#\GreaterNumber\obj\Debug\net8.0\GreaterNumber.pdb
+C:\Users\Aditya Uni\C#\GreaterNumber\obj\Debug\net8.0\GreaterNumber.genruntimeconfig.cache
+C:\Users\Aditya Uni\C#\GreaterNumber\obj\Debug\net8.0\ref\GreaterNumber.dll
