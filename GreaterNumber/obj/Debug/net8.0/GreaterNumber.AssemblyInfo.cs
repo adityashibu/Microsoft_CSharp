@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GreaterNumber")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b4076eb5d2825694863baff27757d51f0c0d025")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+122b38c145538a72b777a906ccae2237b67e72fa")]
 [assembly: System.Reflection.AssemblyProductAttribute("GreaterNumber")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GreaterNumber")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
