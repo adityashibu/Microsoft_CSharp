@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aditya Uni\\C#\\ReplaceSwitch\\FizzBuzz\\FizzBuzz.csproj",
+      "projectUniqueName": "C:\\Users\\Aditya Uni\\C#\\FizzBuzz\\FizzBuzz.csproj",
       "projectName": "FizzBuzz",
-      "projectPath": "C:\\Users\\Aditya Uni\\C#\\ReplaceSwitch\\FizzBuzz\\FizzBuzz.csproj",
+      "projectPath": "C:\\Users\\Aditya Uni\\C#\\FizzBuzz\\FizzBuzz.csproj",
       "packagesPath": "C:\\Users\\Aditya Uni\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aditya Uni\\C#\\ReplaceSwitch\\FizzBuzz\\obj\\",
+      "outputPath": "C:\\Users\\Aditya Uni\\C#\\FizzBuzz\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Aditya Uni\\AppData\\Roaming\\NuGet\\NuGet.Config"
