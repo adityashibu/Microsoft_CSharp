@@ -1,0 +1,15 @@
+C:\Users\Aditya Uni\C#\CoinFlip\obj\Debug\net8.0\CoinFlip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aditya Uni\C#\CoinFlip\obj\Debug\net8.0\CoinFlip.AssemblyInfoInputs.cache
+C:\Users\Aditya Uni\C#\CoinFlip\obj\Debug\net8.0\CoinFlip.AssemblyInfo.cs
+C:\Users\Aditya Uni\C#\CoinFlip\obj\Debug\net8.0\CoinFlip.csproj.CoreCompileInputs.cache
+C:\Users\Aditya Uni\C#\CoinFlip\obj\Debug\net8.0\CoinFlip.sourcelink.json
+C:\Users\Aditya Uni\C#\CoinFlip\bin\Debug\net8.0\CoinFlip.exe
+C:\Users\Aditya Uni\C#\CoinFlip\bin\Debug\net8.0\CoinFlip.deps.json
+C:\Users\Aditya Uni\C#\CoinFlip\bin\Debug\net8.0\CoinFlip.runtimeconfig.json
+C:\Users\Aditya Uni\C#\CoinFlip\bin\Debug\net8.0\CoinFlip.dll
+C:\Users\Aditya Uni\C#\CoinFlip\bin\Debug\net8.0\CoinFlip.pdb
+C:\Users\Aditya Uni\C#\CoinFlip\obj\Debug\net8.0\CoinFlip.dll
+C:\Users\Aditya Uni\C#\CoinFlip\obj\Debug\net8.0\refint\CoinFlip.dll
+C:\Users\Aditya Uni\C#\CoinFlip\obj\Debug\net8.0\CoinFlip.pdb
+C:\Users\Aditya Uni\C#\CoinFlip\obj\Debug\net8.0\CoinFlip.genruntimeconfig.cache
+C:\Users\Aditya Uni\C#\CoinFlip\obj\Debug\net8.0\ref\CoinFlip.dll
