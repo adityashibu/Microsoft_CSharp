@@ -1,0 +1,15 @@
+C:\Users\Aditya Uni\C#\ReplaceSwitch\bin\Debug\net8.0\ReplaceSwitch.exe
+C:\Users\Aditya Uni\C#\ReplaceSwitch\bin\Debug\net8.0\ReplaceSwitch.deps.json
+C:\Users\Aditya Uni\C#\ReplaceSwitch\bin\Debug\net8.0\ReplaceSwitch.runtimeconfig.json
+C:\Users\Aditya Uni\C#\ReplaceSwitch\bin\Debug\net8.0\ReplaceSwitch.dll
+C:\Users\Aditya Uni\C#\ReplaceSwitch\bin\Debug\net8.0\ReplaceSwitch.pdb
+C:\Users\Aditya Uni\C#\ReplaceSwitch\obj\Debug\net8.0\ReplaceSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aditya Uni\C#\ReplaceSwitch\obj\Debug\net8.0\ReplaceSwitch.AssemblyInfoInputs.cache
+C:\Users\Aditya Uni\C#\ReplaceSwitch\obj\Debug\net8.0\ReplaceSwitch.AssemblyInfo.cs
+C:\Users\Aditya Uni\C#\ReplaceSwitch\obj\Debug\net8.0\ReplaceSwitch.csproj.CoreCompileInputs.cache
+C:\Users\Aditya Uni\C#\ReplaceSwitch\obj\Debug\net8.0\ReplaceSwitch.sourcelink.json
+C:\Users\Aditya Uni\C#\ReplaceSwitch\obj\Debug\net8.0\ReplaceSwitch.dll
+C:\Users\Aditya Uni\C#\ReplaceSwitch\obj\Debug\net8.0\refint\ReplaceSwitch.dll
+C:\Users\Aditya Uni\C#\ReplaceSwitch\obj\Debug\net8.0\ReplaceSwitch.pdb
+C:\Users\Aditya Uni\C#\ReplaceSwitch\obj\Debug\net8.0\ReplaceSwitch.genruntimeconfig.cache
+C:\Users\Aditya Uni\C#\ReplaceSwitch\obj\Debug\net8.0\ref\ReplaceSwitch.dll
