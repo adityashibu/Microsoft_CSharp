@@ -1,0 +1,15 @@
+C:\Users\Aditya Uni\C#\DecisionLogic\bin\Debug\net8.0\DecisionLogic.exe
+C:\Users\Aditya Uni\C#\DecisionLogic\bin\Debug\net8.0\DecisionLogic.deps.json
+C:\Users\Aditya Uni\C#\DecisionLogic\bin\Debug\net8.0\DecisionLogic.runtimeconfig.json
+C:\Users\Aditya Uni\C#\DecisionLogic\bin\Debug\net8.0\DecisionLogic.dll
+C:\Users\Aditya Uni\C#\DecisionLogic\bin\Debug\net8.0\DecisionLogic.pdb
+C:\Users\Aditya Uni\C#\DecisionLogic\obj\Debug\net8.0\DecisionLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aditya Uni\C#\DecisionLogic\obj\Debug\net8.0\DecisionLogic.AssemblyInfoInputs.cache
+C:\Users\Aditya Uni\C#\DecisionLogic\obj\Debug\net8.0\DecisionLogic.AssemblyInfo.cs
+C:\Users\Aditya Uni\C#\DecisionLogic\obj\Debug\net8.0\DecisionLogic.csproj.CoreCompileInputs.cache
+C:\Users\Aditya Uni\C#\DecisionLogic\obj\Debug\net8.0\DecisionLogic.sourcelink.json
+C:\Users\Aditya Uni\C#\DecisionLogic\obj\Debug\net8.0\DecisionLogic.dll
+C:\Users\Aditya Uni\C#\DecisionLogic\obj\Debug\net8.0\refint\DecisionLogic.dll
+C:\Users\Aditya Uni\C#\DecisionLogic\obj\Debug\net8.0\DecisionLogic.pdb
+C:\Users\Aditya Uni\C#\DecisionLogic\obj\Debug\net8.0\DecisionLogic.genruntimeconfig.cache
+C:\Users\Aditya Uni\C#\DecisionLogic\obj\Debug\net8.0\ref\DecisionLogic.dll
