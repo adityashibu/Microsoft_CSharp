@@ -1,0 +1,15 @@
+C:\Users\Aditya Uni\C#\VariableScope\obj\Debug\net8.0\VariableScope.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aditya Uni\C#\VariableScope\obj\Debug\net8.0\VariableScope.AssemblyInfoInputs.cache
+C:\Users\Aditya Uni\C#\VariableScope\obj\Debug\net8.0\VariableScope.AssemblyInfo.cs
+C:\Users\Aditya Uni\C#\VariableScope\obj\Debug\net8.0\VariableScope.csproj.CoreCompileInputs.cache
+C:\Users\Aditya Uni\C#\VariableScope\obj\Debug\net8.0\VariableScope.sourcelink.json
+C:\Users\Aditya Uni\C#\VariableScope\bin\Debug\net8.0\VariableScope.exe
+C:\Users\Aditya Uni\C#\VariableScope\bin\Debug\net8.0\VariableScope.deps.json
+C:\Users\Aditya Uni\C#\VariableScope\bin\Debug\net8.0\VariableScope.runtimeconfig.json
+C:\Users\Aditya Uni\C#\VariableScope\bin\Debug\net8.0\VariableScope.dll
+C:\Users\Aditya Uni\C#\VariableScope\bin\Debug\net8.0\VariableScope.pdb
+C:\Users\Aditya Uni\C#\VariableScope\obj\Debug\net8.0\VariableScope.dll
+C:\Users\Aditya Uni\C#\VariableScope\obj\Debug\net8.0\refint\VariableScope.dll
+C:\Users\Aditya Uni\C#\VariableScope\obj\Debug\net8.0\VariableScope.pdb
+C:\Users\Aditya Uni\C#\VariableScope\obj\Debug\net8.0\VariableScope.genruntimeconfig.cache
+C:\Users\Aditya Uni\C#\VariableScope\obj\Debug\net8.0\ref\VariableScope.dll
