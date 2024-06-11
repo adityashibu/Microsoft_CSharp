@@ -1,0 +1,15 @@
+C:\Users\Aditya Uni\C#\RPGBattleChallenge\bin\Debug\net8.0\RPGBattleChallenge.exe
+C:\Users\Aditya Uni\C#\RPGBattleChallenge\bin\Debug\net8.0\RPGBattleChallenge.deps.json
+C:\Users\Aditya Uni\C#\RPGBattleChallenge\bin\Debug\net8.0\RPGBattleChallenge.runtimeconfig.json
+C:\Users\Aditya Uni\C#\RPGBattleChallenge\bin\Debug\net8.0\RPGBattleChallenge.dll
+C:\Users\Aditya Uni\C#\RPGBattleChallenge\bin\Debug\net8.0\RPGBattleChallenge.pdb
+C:\Users\Aditya Uni\C#\RPGBattleChallenge\obj\Debug\net8.0\RPGBattleChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aditya Uni\C#\RPGBattleChallenge\obj\Debug\net8.0\RPGBattleChallenge.AssemblyInfoInputs.cache
+C:\Users\Aditya Uni\C#\RPGBattleChallenge\obj\Debug\net8.0\RPGBattleChallenge.AssemblyInfo.cs
+C:\Users\Aditya Uni\C#\RPGBattleChallenge\obj\Debug\net8.0\RPGBattleChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Aditya Uni\C#\RPGBattleChallenge\obj\Debug\net8.0\RPGBattleChallenge.sourcelink.json
+C:\Users\Aditya Uni\C#\RPGBattleChallenge\obj\Debug\net8.0\RPGBattleChallenge.dll
+C:\Users\Aditya Uni\C#\RPGBattleChallenge\obj\Debug\net8.0\refint\RPGBattleChallenge.dll
+C:\Users\Aditya Uni\C#\RPGBattleChallenge\obj\Debug\net8.0\RPGBattleChallenge.pdb
+C:\Users\Aditya Uni\C#\RPGBattleChallenge\obj\Debug\net8.0\RPGBattleChallenge.genruntimeconfig.cache
+C:\Users\Aditya Uni\C#\RPGBattleChallenge\obj\Debug\net8.0\ref\RPGBattleChallenge.dll
