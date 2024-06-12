@@ -1,0 +1,15 @@
+C:\Users\Aditya Uni\C#\PetsApplication\bin\Debug\net8.0\PetsApplication.exe
+C:\Users\Aditya Uni\C#\PetsApplication\bin\Debug\net8.0\PetsApplication.deps.json
+C:\Users\Aditya Uni\C#\PetsApplication\bin\Debug\net8.0\PetsApplication.runtimeconfig.json
+C:\Users\Aditya Uni\C#\PetsApplication\bin\Debug\net8.0\PetsApplication.dll
+C:\Users\Aditya Uni\C#\PetsApplication\bin\Debug\net8.0\PetsApplication.pdb
+C:\Users\Aditya Uni\C#\PetsApplication\obj\Debug\net8.0\PetsApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aditya Uni\C#\PetsApplication\obj\Debug\net8.0\PetsApplication.AssemblyInfoInputs.cache
+C:\Users\Aditya Uni\C#\PetsApplication\obj\Debug\net8.0\PetsApplication.AssemblyInfo.cs
+C:\Users\Aditya Uni\C#\PetsApplication\obj\Debug\net8.0\PetsApplication.csproj.CoreCompileInputs.cache
+C:\Users\Aditya Uni\C#\PetsApplication\obj\Debug\net8.0\PetsApplication.sourcelink.json
+C:\Users\Aditya Uni\C#\PetsApplication\obj\Debug\net8.0\PetsApplication.dll
+C:\Users\Aditya Uni\C#\PetsApplication\obj\Debug\net8.0\refint\PetsApplication.dll
+C:\Users\Aditya Uni\C#\PetsApplication\obj\Debug\net8.0\PetsApplication.pdb
+C:\Users\Aditya Uni\C#\PetsApplication\obj\Debug\net8.0\PetsApplication.genruntimeconfig.cache
+C:\Users\Aditya Uni\C#\PetsApplication\obj\Debug\net8.0\ref\PetsApplication.dll
