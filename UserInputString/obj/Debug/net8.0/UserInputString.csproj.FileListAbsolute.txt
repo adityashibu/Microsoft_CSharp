@@ -1,0 +1,15 @@
+C:\Users\Aditya Uni\C#\UserInputString\obj\Debug\net8.0\UserInputString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aditya Uni\C#\UserInputString\obj\Debug\net8.0\UserInputString.AssemblyInfoInputs.cache
+C:\Users\Aditya Uni\C#\UserInputString\obj\Debug\net8.0\UserInputString.AssemblyInfo.cs
+C:\Users\Aditya Uni\C#\UserInputString\obj\Debug\net8.0\UserInputString.csproj.CoreCompileInputs.cache
+C:\Users\Aditya Uni\C#\UserInputString\obj\Debug\net8.0\UserInputString.sourcelink.json
+C:\Users\Aditya Uni\C#\UserInputString\bin\Debug\net8.0\UserInputString.exe
+C:\Users\Aditya Uni\C#\UserInputString\bin\Debug\net8.0\UserInputString.deps.json
+C:\Users\Aditya Uni\C#\UserInputString\bin\Debug\net8.0\UserInputString.runtimeconfig.json
+C:\Users\Aditya Uni\C#\UserInputString\bin\Debug\net8.0\UserInputString.dll
+C:\Users\Aditya Uni\C#\UserInputString\bin\Debug\net8.0\UserInputString.pdb
+C:\Users\Aditya Uni\C#\UserInputString\obj\Debug\net8.0\UserInputString.dll
+C:\Users\Aditya Uni\C#\UserInputString\obj\Debug\net8.0\refint\UserInputString.dll
+C:\Users\Aditya Uni\C#\UserInputString\obj\Debug\net8.0\UserInputString.pdb
+C:\Users\Aditya Uni\C#\UserInputString\obj\Debug\net8.0\UserInputString.genruntimeconfig.cache
+C:\Users\Aditya Uni\C#\UserInputString\obj\Debug\net8.0\ref\UserInputString.dll
