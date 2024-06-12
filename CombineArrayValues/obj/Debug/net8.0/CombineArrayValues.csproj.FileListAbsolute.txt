@@ -1,0 +1,15 @@
+C:\Users\Aditya Uni\C#\CombineArrayValues\bin\Debug\net8.0\CombineArrayValues.exe
+C:\Users\Aditya Uni\C#\CombineArrayValues\bin\Debug\net8.0\CombineArrayValues.deps.json
+C:\Users\Aditya Uni\C#\CombineArrayValues\bin\Debug\net8.0\CombineArrayValues.runtimeconfig.json
+C:\Users\Aditya Uni\C#\CombineArrayValues\bin\Debug\net8.0\CombineArrayValues.dll
+C:\Users\Aditya Uni\C#\CombineArrayValues\bin\Debug\net8.0\CombineArrayValues.pdb
+C:\Users\Aditya Uni\C#\CombineArrayValues\obj\Debug\net8.0\CombineArrayValues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aditya Uni\C#\CombineArrayValues\obj\Debug\net8.0\CombineArrayValues.AssemblyInfoInputs.cache
+C:\Users\Aditya Uni\C#\CombineArrayValues\obj\Debug\net8.0\CombineArrayValues.AssemblyInfo.cs
+C:\Users\Aditya Uni\C#\CombineArrayValues\obj\Debug\net8.0\CombineArrayValues.csproj.CoreCompileInputs.cache
+C:\Users\Aditya Uni\C#\CombineArrayValues\obj\Debug\net8.0\CombineArrayValues.sourcelink.json
+C:\Users\Aditya Uni\C#\CombineArrayValues\obj\Debug\net8.0\CombineArrayValues.dll
+C:\Users\Aditya Uni\C#\CombineArrayValues\obj\Debug\net8.0\refint\CombineArrayValues.dll
+C:\Users\Aditya Uni\C#\CombineArrayValues\obj\Debug\net8.0\CombineArrayValues.pdb
+C:\Users\Aditya Uni\C#\CombineArrayValues\obj\Debug\net8.0\CombineArrayValues.genruntimeconfig.cache
+C:\Users\Aditya Uni\C#\CombineArrayValues\obj\Debug\net8.0\ref\CombineArrayValues.dll
