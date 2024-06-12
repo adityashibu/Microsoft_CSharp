@@ -1,4 +1,4 @@
-﻿// the ourAnimals array will store the following: 
+// the ourAnimals array will store the following: 
 string animalSpecies = "";
 string animalID = "";
 string animalAge = "";
