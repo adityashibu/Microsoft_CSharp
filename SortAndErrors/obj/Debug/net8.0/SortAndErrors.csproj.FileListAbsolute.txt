@@ -1,0 +1,15 @@
+C:\Users\Aditya Uni\C#\SortAndErrors\bin\Debug\net8.0\SortAndErrors.exe
+C:\Users\Aditya Uni\C#\SortAndErrors\bin\Debug\net8.0\SortAndErrors.deps.json
+C:\Users\Aditya Uni\C#\SortAndErrors\bin\Debug\net8.0\SortAndErrors.runtimeconfig.json
+C:\Users\Aditya Uni\C#\SortAndErrors\bin\Debug\net8.0\SortAndErrors.dll
+C:\Users\Aditya Uni\C#\SortAndErrors\bin\Debug\net8.0\SortAndErrors.pdb
+C:\Users\Aditya Uni\C#\SortAndErrors\obj\Debug\net8.0\SortAndErrors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aditya Uni\C#\SortAndErrors\obj\Debug\net8.0\SortAndErrors.AssemblyInfoInputs.cache
+C:\Users\Aditya Uni\C#\SortAndErrors\obj\Debug\net8.0\SortAndErrors.AssemblyInfo.cs
+C:\Users\Aditya Uni\C#\SortAndErrors\obj\Debug\net8.0\SortAndErrors.csproj.CoreCompileInputs.cache
+C:\Users\Aditya Uni\C#\SortAndErrors\obj\Debug\net8.0\SortAndErrors.sourcelink.json
+C:\Users\Aditya Uni\C#\SortAndErrors\obj\Debug\net8.0\SortAndErrors.dll
+C:\Users\Aditya Uni\C#\SortAndErrors\obj\Debug\net8.0\refint\SortAndErrors.dll
+C:\Users\Aditya Uni\C#\SortAndErrors\obj\Debug\net8.0\SortAndErrors.pdb
+C:\Users\Aditya Uni\C#\SortAndErrors\obj\Debug\net8.0\SortAndErrors.genruntimeconfig.cache
+C:\Users\Aditya Uni\C#\SortAndErrors\obj\Debug\net8.0\ref\SortAndErrors.dll
