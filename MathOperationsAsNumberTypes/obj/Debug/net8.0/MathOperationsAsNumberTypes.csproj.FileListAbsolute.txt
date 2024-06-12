@@ -1,0 +1,15 @@
+C:\Users\Aditya Uni\C#\MathOperationsAsNumberTypes\obj\Debug\net8.0\MathOperationsAsNumberTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aditya Uni\C#\MathOperationsAsNumberTypes\obj\Debug\net8.0\MathOperationsAsNumberTypes.AssemblyInfoInputs.cache
+C:\Users\Aditya Uni\C#\MathOperationsAsNumberTypes\obj\Debug\net8.0\MathOperationsAsNumberTypes.AssemblyInfo.cs
+C:\Users\Aditya Uni\C#\MathOperationsAsNumberTypes\obj\Debug\net8.0\MathOperationsAsNumberTypes.csproj.CoreCompileInputs.cache
+C:\Users\Aditya Uni\C#\MathOperationsAsNumberTypes\obj\Debug\net8.0\MathOperationsAsNumberTypes.sourcelink.json
+C:\Users\Aditya Uni\C#\MathOperationsAsNumberTypes\bin\Debug\net8.0\MathOperationsAsNumberTypes.exe
+C:\Users\Aditya Uni\C#\MathOperationsAsNumberTypes\bin\Debug\net8.0\MathOperationsAsNumberTypes.deps.json
+C:\Users\Aditya Uni\C#\MathOperationsAsNumberTypes\bin\Debug\net8.0\MathOperationsAsNumberTypes.runtimeconfig.json
+C:\Users\Aditya Uni\C#\MathOperationsAsNumberTypes\bin\Debug\net8.0\MathOperationsAsNumberTypes.dll
+C:\Users\Aditya Uni\C#\MathOperationsAsNumberTypes\bin\Debug\net8.0\MathOperationsAsNumberTypes.pdb
+C:\Users\Aditya Uni\C#\MathOperationsAsNumberTypes\obj\Debug\net8.0\MathOperationsAsNumberTypes.dll
+C:\Users\Aditya Uni\C#\MathOperationsAsNumberTypes\obj\Debug\net8.0\refint\MathOperationsAsNumberTypes.dll
+C:\Users\Aditya Uni\C#\MathOperationsAsNumberTypes\obj\Debug\net8.0\MathOperationsAsNumberTypes.pdb
+C:\Users\Aditya Uni\C#\MathOperationsAsNumberTypes\obj\Debug\net8.0\MathOperationsAsNumberTypes.genruntimeconfig.cache
+C:\Users\Aditya Uni\C#\MathOperationsAsNumberTypes\obj\Debug\net8.0\ref\MathOperationsAsNumberTypes.dll
