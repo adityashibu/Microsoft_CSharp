@@ -1,0 +1,15 @@
+C:\Users\Aditya Uni\C#\StringArray\bin\Debug\net8.0\StringArray.exe
+C:\Users\Aditya Uni\C#\StringArray\bin\Debug\net8.0\StringArray.deps.json
+C:\Users\Aditya Uni\C#\StringArray\bin\Debug\net8.0\StringArray.runtimeconfig.json
+C:\Users\Aditya Uni\C#\StringArray\bin\Debug\net8.0\StringArray.dll
+C:\Users\Aditya Uni\C#\StringArray\bin\Debug\net8.0\StringArray.pdb
+C:\Users\Aditya Uni\C#\StringArray\obj\Debug\net8.0\StringArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aditya Uni\C#\StringArray\obj\Debug\net8.0\StringArray.AssemblyInfoInputs.cache
+C:\Users\Aditya Uni\C#\StringArray\obj\Debug\net8.0\StringArray.AssemblyInfo.cs
+C:\Users\Aditya Uni\C#\StringArray\obj\Debug\net8.0\StringArray.csproj.CoreCompileInputs.cache
+C:\Users\Aditya Uni\C#\StringArray\obj\Debug\net8.0\StringArray.sourcelink.json
+C:\Users\Aditya Uni\C#\StringArray\obj\Debug\net8.0\StringArray.dll
+C:\Users\Aditya Uni\C#\StringArray\obj\Debug\net8.0\refint\StringArray.dll
+C:\Users\Aditya Uni\C#\StringArray\obj\Debug\net8.0\StringArray.pdb
+C:\Users\Aditya Uni\C#\StringArray\obj\Debug\net8.0\StringArray.genruntimeconfig.cache
+C:\Users\Aditya Uni\C#\StringArray\obj\Debug\net8.0\ref\StringArray.dll
