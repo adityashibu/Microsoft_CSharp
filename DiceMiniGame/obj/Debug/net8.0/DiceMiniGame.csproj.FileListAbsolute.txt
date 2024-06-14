@@ -1,0 +1,15 @@
+C:\Users\Aditya Uni\C#\DiceMiniGame\obj\Debug\net8.0\DiceMiniGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aditya Uni\C#\DiceMiniGame\obj\Debug\net8.0\DiceMiniGame.AssemblyInfoInputs.cache
+C:\Users\Aditya Uni\C#\DiceMiniGame\obj\Debug\net8.0\DiceMiniGame.AssemblyInfo.cs
+C:\Users\Aditya Uni\C#\DiceMiniGame\obj\Debug\net8.0\DiceMiniGame.csproj.CoreCompileInputs.cache
+C:\Users\Aditya Uni\C#\DiceMiniGame\obj\Debug\net8.0\DiceMiniGame.sourcelink.json
+C:\Users\Aditya Uni\C#\DiceMiniGame\bin\Debug\net8.0\DiceMiniGame.exe
+C:\Users\Aditya Uni\C#\DiceMiniGame\bin\Debug\net8.0\DiceMiniGame.deps.json
+C:\Users\Aditya Uni\C#\DiceMiniGame\bin\Debug\net8.0\DiceMiniGame.runtimeconfig.json
+C:\Users\Aditya Uni\C#\DiceMiniGame\bin\Debug\net8.0\DiceMiniGame.dll
+C:\Users\Aditya Uni\C#\DiceMiniGame\bin\Debug\net8.0\DiceMiniGame.pdb
+C:\Users\Aditya Uni\C#\DiceMiniGame\obj\Debug\net8.0\DiceMiniGame.dll
+C:\Users\Aditya Uni\C#\DiceMiniGame\obj\Debug\net8.0\refint\DiceMiniGame.dll
+C:\Users\Aditya Uni\C#\DiceMiniGame\obj\Debug\net8.0\DiceMiniGame.pdb
+C:\Users\Aditya Uni\C#\DiceMiniGame\obj\Debug\net8.0\DiceMiniGame.genruntimeconfig.cache
+C:\Users\Aditya Uni\C#\DiceMiniGame\obj\Debug\net8.0\ref\DiceMiniGame.dll
