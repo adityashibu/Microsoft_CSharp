@@ -1,0 +1,15 @@
+C:\Users\Aditya Uni\C#\ReturnNumbers\bin\Debug\net8.0\ReturnNumbers.exe
+C:\Users\Aditya Uni\C#\ReturnNumbers\bin\Debug\net8.0\ReturnNumbers.deps.json
+C:\Users\Aditya Uni\C#\ReturnNumbers\bin\Debug\net8.0\ReturnNumbers.runtimeconfig.json
+C:\Users\Aditya Uni\C#\ReturnNumbers\bin\Debug\net8.0\ReturnNumbers.dll
+C:\Users\Aditya Uni\C#\ReturnNumbers\bin\Debug\net8.0\ReturnNumbers.pdb
+C:\Users\Aditya Uni\C#\ReturnNumbers\obj\Debug\net8.0\ReturnNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aditya Uni\C#\ReturnNumbers\obj\Debug\net8.0\ReturnNumbers.AssemblyInfoInputs.cache
+C:\Users\Aditya Uni\C#\ReturnNumbers\obj\Debug\net8.0\ReturnNumbers.AssemblyInfo.cs
+C:\Users\Aditya Uni\C#\ReturnNumbers\obj\Debug\net8.0\ReturnNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Aditya Uni\C#\ReturnNumbers\obj\Debug\net8.0\ReturnNumbers.sourcelink.json
+C:\Users\Aditya Uni\C#\ReturnNumbers\obj\Debug\net8.0\ReturnNumbers.dll
+C:\Users\Aditya Uni\C#\ReturnNumbers\obj\Debug\net8.0\refint\ReturnNumbers.dll
+C:\Users\Aditya Uni\C#\ReturnNumbers\obj\Debug\net8.0\ReturnNumbers.pdb
+C:\Users\Aditya Uni\C#\ReturnNumbers\obj\Debug\net8.0\ReturnNumbers.genruntimeconfig.cache
+C:\Users\Aditya Uni\C#\ReturnNumbers\obj\Debug\net8.0\ref\ReturnNumbers.dll
