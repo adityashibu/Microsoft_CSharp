@@ -1,0 +1,15 @@
+C:\Users\Aditya Uni\C#\TwoCoins\obj\Debug\net8.0\TwoCoins.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aditya Uni\C#\TwoCoins\obj\Debug\net8.0\TwoCoins.AssemblyInfoInputs.cache
+C:\Users\Aditya Uni\C#\TwoCoins\obj\Debug\net8.0\TwoCoins.AssemblyInfo.cs
+C:\Users\Aditya Uni\C#\TwoCoins\obj\Debug\net8.0\TwoCoins.csproj.CoreCompileInputs.cache
+C:\Users\Aditya Uni\C#\TwoCoins\obj\Debug\net8.0\TwoCoins.sourcelink.json
+C:\Users\Aditya Uni\C#\TwoCoins\bin\Debug\net8.0\TwoCoins.exe
+C:\Users\Aditya Uni\C#\TwoCoins\bin\Debug\net8.0\TwoCoins.deps.json
+C:\Users\Aditya Uni\C#\TwoCoins\bin\Debug\net8.0\TwoCoins.runtimeconfig.json
+C:\Users\Aditya Uni\C#\TwoCoins\bin\Debug\net8.0\TwoCoins.dll
+C:\Users\Aditya Uni\C#\TwoCoins\bin\Debug\net8.0\TwoCoins.pdb
+C:\Users\Aditya Uni\C#\TwoCoins\obj\Debug\net8.0\TwoCoins.dll
+C:\Users\Aditya Uni\C#\TwoCoins\obj\Debug\net8.0\refint\TwoCoins.dll
+C:\Users\Aditya Uni\C#\TwoCoins\obj\Debug\net8.0\TwoCoins.pdb
+C:\Users\Aditya Uni\C#\TwoCoins\obj\Debug\net8.0\TwoCoins.genruntimeconfig.cache
+C:\Users\Aditya Uni\C#\TwoCoins\obj\Debug\net8.0\ref\TwoCoins.dll
