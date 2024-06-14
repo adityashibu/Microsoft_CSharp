@@ -1,0 +1,15 @@
+C:\Users\Aditya Uni\C#\TwoCoinsMultiple\obj\Debug\net8.0\TwoCoinsMultiple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aditya Uni\C#\TwoCoinsMultiple\obj\Debug\net8.0\TwoCoinsMultiple.AssemblyInfoInputs.cache
+C:\Users\Aditya Uni\C#\TwoCoinsMultiple\obj\Debug\net8.0\TwoCoinsMultiple.AssemblyInfo.cs
+C:\Users\Aditya Uni\C#\TwoCoinsMultiple\obj\Debug\net8.0\TwoCoinsMultiple.csproj.CoreCompileInputs.cache
+C:\Users\Aditya Uni\C#\TwoCoinsMultiple\obj\Debug\net8.0\TwoCoinsMultiple.sourcelink.json
+C:\Users\Aditya Uni\C#\TwoCoinsMultiple\bin\Debug\net8.0\TwoCoinsMultiple.exe
+C:\Users\Aditya Uni\C#\TwoCoinsMultiple\bin\Debug\net8.0\TwoCoinsMultiple.deps.json
+C:\Users\Aditya Uni\C#\TwoCoinsMultiple\bin\Debug\net8.0\TwoCoinsMultiple.runtimeconfig.json
+C:\Users\Aditya Uni\C#\TwoCoinsMultiple\bin\Debug\net8.0\TwoCoinsMultiple.dll
+C:\Users\Aditya Uni\C#\TwoCoinsMultiple\bin\Debug\net8.0\TwoCoinsMultiple.pdb
+C:\Users\Aditya Uni\C#\TwoCoinsMultiple\obj\Debug\net8.0\TwoCoinsMultiple.dll
+C:\Users\Aditya Uni\C#\TwoCoinsMultiple\obj\Debug\net8.0\refint\TwoCoinsMultiple.dll
+C:\Users\Aditya Uni\C#\TwoCoinsMultiple\obj\Debug\net8.0\TwoCoinsMultiple.pdb
+C:\Users\Aditya Uni\C#\TwoCoinsMultiple\obj\Debug\net8.0\TwoCoinsMultiple.genruntimeconfig.cache
+C:\Users\Aditya Uni\C#\TwoCoinsMultiple\obj\Debug\net8.0\ref\TwoCoinsMultiple.dll
