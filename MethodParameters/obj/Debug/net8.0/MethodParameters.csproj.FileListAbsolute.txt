@@ -1,0 +1,15 @@
+C:\Users\Aditya Uni\C#\MethodParameters\bin\Debug\net8.0\MethodParameters.exe
+C:\Users\Aditya Uni\C#\MethodParameters\bin\Debug\net8.0\MethodParameters.deps.json
+C:\Users\Aditya Uni\C#\MethodParameters\bin\Debug\net8.0\MethodParameters.runtimeconfig.json
+C:\Users\Aditya Uni\C#\MethodParameters\bin\Debug\net8.0\MethodParameters.dll
+C:\Users\Aditya Uni\C#\MethodParameters\bin\Debug\net8.0\MethodParameters.pdb
+C:\Users\Aditya Uni\C#\MethodParameters\obj\Debug\net8.0\MethodParameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aditya Uni\C#\MethodParameters\obj\Debug\net8.0\MethodParameters.AssemblyInfoInputs.cache
+C:\Users\Aditya Uni\C#\MethodParameters\obj\Debug\net8.0\MethodParameters.AssemblyInfo.cs
+C:\Users\Aditya Uni\C#\MethodParameters\obj\Debug\net8.0\MethodParameters.csproj.CoreCompileInputs.cache
+C:\Users\Aditya Uni\C#\MethodParameters\obj\Debug\net8.0\MethodParameters.sourcelink.json
+C:\Users\Aditya Uni\C#\MethodParameters\obj\Debug\net8.0\MethodParameters.dll
+C:\Users\Aditya Uni\C#\MethodParameters\obj\Debug\net8.0\refint\MethodParameters.dll
+C:\Users\Aditya Uni\C#\MethodParameters\obj\Debug\net8.0\MethodParameters.pdb
+C:\Users\Aditya Uni\C#\MethodParameters\obj\Debug\net8.0\MethodParameters.genruntimeconfig.cache
+C:\Users\Aditya Uni\C#\MethodParameters\obj\Debug\net8.0\ref\MethodParameters.dll
