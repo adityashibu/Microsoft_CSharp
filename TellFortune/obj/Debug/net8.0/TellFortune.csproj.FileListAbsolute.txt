@@ -1,0 +1,15 @@
+C:\Users\Aditya Uni\C#\TellFortune\obj\Debug\net8.0\TellFortune.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aditya Uni\C#\TellFortune\obj\Debug\net8.0\TellFortune.AssemblyInfoInputs.cache
+C:\Users\Aditya Uni\C#\TellFortune\obj\Debug\net8.0\TellFortune.AssemblyInfo.cs
+C:\Users\Aditya Uni\C#\TellFortune\obj\Debug\net8.0\TellFortune.csproj.CoreCompileInputs.cache
+C:\Users\Aditya Uni\C#\TellFortune\obj\Debug\net8.0\TellFortune.sourcelink.json
+C:\Users\Aditya Uni\C#\TellFortune\bin\Debug\net8.0\TellFortune.exe
+C:\Users\Aditya Uni\C#\TellFortune\bin\Debug\net8.0\TellFortune.deps.json
+C:\Users\Aditya Uni\C#\TellFortune\bin\Debug\net8.0\TellFortune.runtimeconfig.json
+C:\Users\Aditya Uni\C#\TellFortune\bin\Debug\net8.0\TellFortune.dll
+C:\Users\Aditya Uni\C#\TellFortune\bin\Debug\net8.0\TellFortune.pdb
+C:\Users\Aditya Uni\C#\TellFortune\obj\Debug\net8.0\TellFortune.dll
+C:\Users\Aditya Uni\C#\TellFortune\obj\Debug\net8.0\refint\TellFortune.dll
+C:\Users\Aditya Uni\C#\TellFortune\obj\Debug\net8.0\TellFortune.pdb
+C:\Users\Aditya Uni\C#\TellFortune\obj\Debug\net8.0\TellFortune.genruntimeconfig.cache
+C:\Users\Aditya Uni\C#\TellFortune\obj\Debug\net8.0\ref\TellFortune.dll
