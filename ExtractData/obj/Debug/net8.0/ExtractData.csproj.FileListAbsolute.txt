@@ -1,0 +1,15 @@
+C:\Users\Aditya Uni\C#\ExtractData\bin\Debug\net8.0\ExtractData.exe
+C:\Users\Aditya Uni\C#\ExtractData\bin\Debug\net8.0\ExtractData.deps.json
+C:\Users\Aditya Uni\C#\ExtractData\bin\Debug\net8.0\ExtractData.runtimeconfig.json
+C:\Users\Aditya Uni\C#\ExtractData\bin\Debug\net8.0\ExtractData.dll
+C:\Users\Aditya Uni\C#\ExtractData\bin\Debug\net8.0\ExtractData.pdb
+C:\Users\Aditya Uni\C#\ExtractData\obj\Debug\net8.0\ExtractData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aditya Uni\C#\ExtractData\obj\Debug\net8.0\ExtractData.AssemblyInfoInputs.cache
+C:\Users\Aditya Uni\C#\ExtractData\obj\Debug\net8.0\ExtractData.AssemblyInfo.cs
+C:\Users\Aditya Uni\C#\ExtractData\obj\Debug\net8.0\ExtractData.csproj.CoreCompileInputs.cache
+C:\Users\Aditya Uni\C#\ExtractData\obj\Debug\net8.0\ExtractData.sourcelink.json
+C:\Users\Aditya Uni\C#\ExtractData\obj\Debug\net8.0\ExtractData.dll
+C:\Users\Aditya Uni\C#\ExtractData\obj\Debug\net8.0\refint\ExtractData.dll
+C:\Users\Aditya Uni\C#\ExtractData\obj\Debug\net8.0\ExtractData.pdb
+C:\Users\Aditya Uni\C#\ExtractData\obj\Debug\net8.0\ExtractData.genruntimeconfig.cache
+C:\Users\Aditya Uni\C#\ExtractData\obj\Debug\net8.0\ref\ExtractData.dll
