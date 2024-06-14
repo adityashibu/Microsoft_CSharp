@@ -1,0 +1,15 @@
+C:\Users\Aditya Uni\C#\ChallengeVariableData\bin\Debug\net8.0\ChallengeVariableData.exe
+C:\Users\Aditya Uni\C#\ChallengeVariableData\bin\Debug\net8.0\ChallengeVariableData.deps.json
+C:\Users\Aditya Uni\C#\ChallengeVariableData\bin\Debug\net8.0\ChallengeVariableData.runtimeconfig.json
+C:\Users\Aditya Uni\C#\ChallengeVariableData\bin\Debug\net8.0\ChallengeVariableData.dll
+C:\Users\Aditya Uni\C#\ChallengeVariableData\bin\Debug\net8.0\ChallengeVariableData.pdb
+C:\Users\Aditya Uni\C#\ChallengeVariableData\obj\Debug\net8.0\ChallengeVariableData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aditya Uni\C#\ChallengeVariableData\obj\Debug\net8.0\ChallengeVariableData.AssemblyInfoInputs.cache
+C:\Users\Aditya Uni\C#\ChallengeVariableData\obj\Debug\net8.0\ChallengeVariableData.AssemblyInfo.cs
+C:\Users\Aditya Uni\C#\ChallengeVariableData\obj\Debug\net8.0\ChallengeVariableData.csproj.CoreCompileInputs.cache
+C:\Users\Aditya Uni\C#\ChallengeVariableData\obj\Debug\net8.0\ChallengeVariableData.sourcelink.json
+C:\Users\Aditya Uni\C#\ChallengeVariableData\obj\Debug\net8.0\ChallengeVariableData.dll
+C:\Users\Aditya Uni\C#\ChallengeVariableData\obj\Debug\net8.0\refint\ChallengeVariableData.dll
+C:\Users\Aditya Uni\C#\ChallengeVariableData\obj\Debug\net8.0\ChallengeVariableData.pdb
+C:\Users\Aditya Uni\C#\ChallengeVariableData\obj\Debug\net8.0\ChallengeVariableData.genruntimeconfig.cache
+C:\Users\Aditya Uni\C#\ChallengeVariableData\obj\Debug\net8.0\ref\ChallengeVariableData.dll
