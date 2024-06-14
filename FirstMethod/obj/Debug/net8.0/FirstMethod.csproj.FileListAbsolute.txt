@@ -1,0 +1,15 @@
+C:\Users\Aditya Uni\C#\FirstMethod\obj\Debug\net8.0\FirstMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aditya Uni\C#\FirstMethod\obj\Debug\net8.0\FirstMethod.AssemblyInfoInputs.cache
+C:\Users\Aditya Uni\C#\FirstMethod\obj\Debug\net8.0\FirstMethod.AssemblyInfo.cs
+C:\Users\Aditya Uni\C#\FirstMethod\obj\Debug\net8.0\FirstMethod.csproj.CoreCompileInputs.cache
+C:\Users\Aditya Uni\C#\FirstMethod\obj\Debug\net8.0\FirstMethod.sourcelink.json
+C:\Users\Aditya Uni\C#\FirstMethod\bin\Debug\net8.0\FirstMethod.exe
+C:\Users\Aditya Uni\C#\FirstMethod\bin\Debug\net8.0\FirstMethod.deps.json
+C:\Users\Aditya Uni\C#\FirstMethod\bin\Debug\net8.0\FirstMethod.runtimeconfig.json
+C:\Users\Aditya Uni\C#\FirstMethod\bin\Debug\net8.0\FirstMethod.dll
+C:\Users\Aditya Uni\C#\FirstMethod\bin\Debug\net8.0\FirstMethod.pdb
+C:\Users\Aditya Uni\C#\FirstMethod\obj\Debug\net8.0\FirstMethod.dll
+C:\Users\Aditya Uni\C#\FirstMethod\obj\Debug\net8.0\refint\FirstMethod.dll
+C:\Users\Aditya Uni\C#\FirstMethod\obj\Debug\net8.0\FirstMethod.pdb
+C:\Users\Aditya Uni\C#\FirstMethod\obj\Debug\net8.0\FirstMethod.genruntimeconfig.cache
+C:\Users\Aditya Uni\C#\FirstMethod\obj\Debug\net8.0\ref\FirstMethod.dll
