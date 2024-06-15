@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aditya Uni\\C#\\PlayerMiniGame\\CodeDebugging\\CodeDebugging.csproj": {}
+    "C:\\Users\\Aditya Uni\\C#\\CodeDebugging\\CodeDebugging.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aditya Uni\\C#\\PlayerMiniGame\\CodeDebugging\\CodeDebugging.csproj": {
+    "C:\\Users\\Aditya Uni\\C#\\CodeDebugging\\CodeDebugging.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aditya Uni\\C#\\PlayerMiniGame\\CodeDebugging\\CodeDebugging.csproj",
+        "projectUniqueName": "C:\\Users\\Aditya Uni\\C#\\CodeDebugging\\CodeDebugging.csproj",
         "projectName": "CodeDebugging",
-        "projectPath": "C:\\Users\\Aditya Uni\\C#\\PlayerMiniGame\\CodeDebugging\\CodeDebugging.csproj",
+        "projectPath": "C:\\Users\\Aditya Uni\\C#\\CodeDebugging\\CodeDebugging.csproj",
         "packagesPath": "C:\\Users\\Aditya Uni\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aditya Uni\\C#\\PlayerMiniGame\\CodeDebugging\\obj\\",
+        "outputPath": "C:\\Users\\Aditya Uni\\C#\\CodeDebugging\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aditya Uni\\AppData\\Roaming\\NuGet\\NuGet.Config"

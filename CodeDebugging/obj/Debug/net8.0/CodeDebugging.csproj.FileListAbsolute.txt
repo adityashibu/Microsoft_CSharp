@@ -1,0 +1,15 @@
+C:\Users\Aditya Uni\C#\CodeDebugging\bin\Debug\net8.0\CodeDebugging.exe
+C:\Users\Aditya Uni\C#\CodeDebugging\bin\Debug\net8.0\CodeDebugging.deps.json
+C:\Users\Aditya Uni\C#\CodeDebugging\bin\Debug\net8.0\CodeDebugging.runtimeconfig.json
+C:\Users\Aditya Uni\C#\CodeDebugging\bin\Debug\net8.0\CodeDebugging.dll
+C:\Users\Aditya Uni\C#\CodeDebugging\bin\Debug\net8.0\CodeDebugging.pdb
+C:\Users\Aditya Uni\C#\CodeDebugging\obj\Debug\net8.0\CodeDebugging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aditya Uni\C#\CodeDebugging\obj\Debug\net8.0\CodeDebugging.AssemblyInfoInputs.cache
+C:\Users\Aditya Uni\C#\CodeDebugging\obj\Debug\net8.0\CodeDebugging.AssemblyInfo.cs
+C:\Users\Aditya Uni\C#\CodeDebugging\obj\Debug\net8.0\CodeDebugging.csproj.CoreCompileInputs.cache
+C:\Users\Aditya Uni\C#\CodeDebugging\obj\Debug\net8.0\CodeDebugging.sourcelink.json
+C:\Users\Aditya Uni\C#\CodeDebugging\obj\Debug\net8.0\CodeDebugging.dll
+C:\Users\Aditya Uni\C#\CodeDebugging\obj\Debug\net8.0\refint\CodeDebugging.dll
+C:\Users\Aditya Uni\C#\CodeDebugging\obj\Debug\net8.0\CodeDebugging.pdb
+C:\Users\Aditya Uni\C#\CodeDebugging\obj\Debug\net8.0\CodeDebugging.genruntimeconfig.cache
+C:\Users\Aditya Uni\C#\CodeDebugging\obj\Debug\net8.0\ref\CodeDebugging.dll
