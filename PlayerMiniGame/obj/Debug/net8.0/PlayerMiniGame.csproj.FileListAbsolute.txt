@@ -1,0 +1,15 @@
+C:\Users\Aditya Uni\C#\PlayerMiniGame\bin\Debug\net8.0\PlayerMiniGame.exe
+C:\Users\Aditya Uni\C#\PlayerMiniGame\bin\Debug\net8.0\PlayerMiniGame.deps.json
+C:\Users\Aditya Uni\C#\PlayerMiniGame\bin\Debug\net8.0\PlayerMiniGame.runtimeconfig.json
+C:\Users\Aditya Uni\C#\PlayerMiniGame\bin\Debug\net8.0\PlayerMiniGame.dll
+C:\Users\Aditya Uni\C#\PlayerMiniGame\bin\Debug\net8.0\PlayerMiniGame.pdb
+C:\Users\Aditya Uni\C#\PlayerMiniGame\obj\Debug\net8.0\PlayerMiniGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aditya Uni\C#\PlayerMiniGame\obj\Debug\net8.0\PlayerMiniGame.AssemblyInfoInputs.cache
+C:\Users\Aditya Uni\C#\PlayerMiniGame\obj\Debug\net8.0\PlayerMiniGame.AssemblyInfo.cs
+C:\Users\Aditya Uni\C#\PlayerMiniGame\obj\Debug\net8.0\PlayerMiniGame.csproj.CoreCompileInputs.cache
+C:\Users\Aditya Uni\C#\PlayerMiniGame\obj\Debug\net8.0\PlayerMiniGame.sourcelink.json
+C:\Users\Aditya Uni\C#\PlayerMiniGame\obj\Debug\net8.0\PlayerMiniGame.dll
+C:\Users\Aditya Uni\C#\PlayerMiniGame\obj\Debug\net8.0\refint\PlayerMiniGame.dll
+C:\Users\Aditya Uni\C#\PlayerMiniGame\obj\Debug\net8.0\PlayerMiniGame.pdb
+C:\Users\Aditya Uni\C#\PlayerMiniGame\obj\Debug\net8.0\PlayerMiniGame.genruntimeconfig.cache
+C:\Users\Aditya Uni\C#\PlayerMiniGame\obj\Debug\net8.0\ref\PlayerMiniGame.dll
