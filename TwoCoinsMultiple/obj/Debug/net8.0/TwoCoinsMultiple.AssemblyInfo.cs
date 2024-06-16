@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TwoCoinsMultiple")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c979b9c8750970ea44b5bb66188a1a4c4940abc5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e42d3a21c88eb6a255ca84641543779301b50a49")]
 [assembly: System.Reflection.AssemblyProductAttribute("TwoCoinsMultiple")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TwoCoinsMultiple")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

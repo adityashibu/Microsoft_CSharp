@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ReplaceSwitch")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e00e09f43c513aa44bed3041aabc86cc9abbf004")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e42d3a21c88eb6a255ca84641543779301b50a49")]
 [assembly: System.Reflection.AssemblyProductAttribute("ReplaceSwitch")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ReplaceSwitch")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
